@@ -9,5 +9,5 @@ A collection of some fun day projects (usually smaller, more like an hour or two
 
 ## Orbiters
 <a href="https://github.com/AishwaryaHB/funsies/blob/master/orbiters/orbiters.ipynb">
-<img src="/images/orbiters_crop_multiplot.png">
+<img src="/images/orbiters_crop_neg_multiplot.png">
 </a>
